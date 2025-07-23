@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    background:transparent;
+    font-family: 'TikTok Sans', sans-serif;
+    color: white;
+}
+
+body{
+    background: rgb(95, 145, 123);
+    color: white;
+    overflow: hidden;
+    overflow-y: scroll;
+}
+
+.navbar-hidden {
+  display: none;
+}
+
+.navbar-visible {
+  display: block;
+}
